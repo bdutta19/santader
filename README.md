@@ -10,3 +10,7 @@ Santader Product Reco - model and training
 https://colab.research.google.com/drive/18KAMJHpHjg4K7s8bpIkTB46u7kvrS-gA
 
 Data is stored in google drive.
+
+# Santa
+
+Expects Gifts.csv to be in the same folder as notebook
